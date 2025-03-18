@@ -1,4 +1,4 @@
-## **Sistema de Gerenciamento de Consultas Odontológicas**
+ ## **Sistema de Gerenciamento de Consultas Odontológicas**
 
 Este é um projeto mobile desenvolvido em Typescript como react node, parte de um sistema de gerenciamento de consultas odontológicas. O aplicativo é voltado para pacientes, oferecendo suporte para acompanhamento de consultas, check-ups regulares e incentivo a bons hábitos de higiene bucal. Ele também facilita a marcação de consultas e oferece um sistema de pontos como forma de fidelização.
 
@@ -38,5 +38,5 @@ Sistema de gamificação que recompensa bons hábitos de saúde bucal, proporcio
   ```bash
   npm install -g expo-cli
 
-
 ## Diagrama de arquitetura 
+![Diagrama](https://github.com/bia98silva/Odontoprev-mobile/blob/main/diagrama.png)
