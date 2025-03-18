@@ -40,3 +40,8 @@ Sistema de gamificação que recompensa bons hábitos de saúde bucal, proporcio
 
 ## Diagrama de arquitetura 
 ![Diagrama](https://github.com/bia98silva/Odontoprev-mobile/blob/main/diagrama.png)
+
+### Grupo:
+Nome: Beatriz Silva RM552600
+Vitor Onofre Ramos RM553241
+Pedro Henrique soares araujo - RM553801
