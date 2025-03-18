@@ -1,5 +1,3 @@
-# **Projeto: Tela de Perfil e Tela de Alertas - Aplicativo Odontológico**
-
 ## **Descrição do Projeto**
 
 ## **Sistema de Gerenciamento de Consultas Odontológicas**
