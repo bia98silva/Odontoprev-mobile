@@ -1,5 +1,3 @@
-## **Descrição do Projeto**
-
 ## **Sistema de Gerenciamento de Consultas Odontológicas**
 
 Este é um projeto mobile desenvolvido em Typescript como react node, parte de um sistema de gerenciamento de consultas odontológicas. O aplicativo é voltado para pacientes, oferecendo suporte para acompanhamento de consultas, check-ups regulares e incentivo a bons hábitos de higiene bucal. Ele também facilita a marcação de consultas e oferece um sistema de pontos como forma de fidelização.
