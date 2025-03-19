@@ -5,7 +5,7 @@ Este é um projeto mobile desenvolvido em Typescript como react node, parte de u
 **Funcionalidades**
 
 Tela de Login
-Interface para autenticação de usuários com validação de CEP, para que o usuário só consiga buscar clínicas quando insere um CEP válido de 8 dígitos.
+Interface para autenticação de usuários, a ideia é implementar uma api de autentificação mas por enquanto qualquer email e senha colocados, permitem acesso ao app. 
 
 Perfil do Paciente
 Exibe informações sobre o paciente, incluindo nome, dados cadastrais e quantidade de pontos acumulados.
